@@ -14,11 +14,12 @@ This roadmap outlines key milestones, code exploration insights, and planned dev
 1.**Implement Basic Decision Tree**: Develop and test decision-tree logic based on soil health indicators.
 2. **Data Input and Storage**: Create forms or input fields for users to enter soil health data and enable basic data storage.
 3. **Initial UI Design**: Begin developing a user-friendly interface for mobile and desktop use.
-
+##Completed Decision tree program 11/16/2024 . having issues with UI. need to contact professor for assistance
 ### Sprint 2: Advanced Features
-1. **Machine Learning Integration**: Explore incorporating a machine learning model for deeper analysis, using insights from code exploration.
-2. **Data Logging and Comparison**: Implement a feature to log user data and enable comparisons over time.
+1. **Machine Learning Integration**: Explore incorporating a machine learning model for deeper analysis, using insights from code exploration- will use for future data collection updates past the project.
+2. **Data Logging and Comparison**: Implement a feature to log user data and enable comparisons over time. Decided not to colelct data at this time for project simplification
 3. **Report Generation**: Design a report generation feature that summarizes soil health assessments.
+   ## 11/17/2024Completed modifications for Report Generation. Still need to work on UI design! 
 
 ### Future Development
 1. **Mobile Optimization**: Ensure the app is fully optimized for mobile use.
